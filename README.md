@@ -1,3 +1,21 @@
+Projeto realizado para seleção de estagiário da empresa Hot Sat<br>
+È um CRUD<br>
+-> Listagem de produtos, +5 produtos mostra o indice de paginas<br>
+-> Cadastro dos mesmos com foto/nome/descrição/estoque/categoria/preço<br>
+-> Busca por produto ou categoria<br>
+-> Alteração/Exclusão de produtos<br>
+-> Integração com banco de dados MySql com id/nome/preço/quantidade/imagem<br>
+Para execução do projeto conforme solicitado foi usado Laravel 10 / Bootstrap 5 / Font Awesome / SweetAlert2
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
